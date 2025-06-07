@@ -33,3 +33,4 @@ for team in (football_team, hockey_team):
     print(team.number_of_draws())
     print(team.number_of_losses())
     print(team.total_points())
+    
